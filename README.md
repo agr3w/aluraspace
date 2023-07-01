@@ -1,6 +1,6 @@
 
 
-# AluraSpa
+# AluraSpace
 
 Projeto do curos "React: como os componentes funcionam" da Alura, com o instrutor Luiz Fernando Ribeiro.
 
